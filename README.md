@@ -4,7 +4,7 @@
 - Toda vez que um usuário é desconectado ou sai do chat, essa informação é enviada para todos os outros usuários.
 
 <p align="center">
-  <img src="img.png" width="400" height="400" >
+  <img src="src/main/resources/static/imgs/img.png" width="400" height="400" >
 </p>
 
 - WebSocket é um protocolo de comunicação que proporciona canais de comunicação full-duplex por meio de uma única conexão TCP. Ele é projetado para ser executado tanto em navegadores web quanto em servidores web, mas pode ser utilizado por qualquer aplicativo cliente-servidor.
@@ -12,7 +12,7 @@
 - Ele é bidirecional, ou seja, os dados no WebSocket fluem em ambas as direções. Isso significa que agora os servidores podem enviar dados para o cliente, sempre que houver algo para ser enviado.
 
 <p align="center">
-  <img src="2.png" width="736" height="328" >
+  <img src="src/main/resources/static/imgs/2.png" width="736" height="328" >
 </p>
 
 ### Para que serve
