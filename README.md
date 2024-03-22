@@ -1,6 +1,6 @@
 # Chat com WebSockets - Java Spring Boot & JavaScript
 
-- Neste projeto, desenvolvi um message/WebSocket broker que recebe mensagens e informações de diferentes usuários e, então, as despacha para os usuários conectados.
+- Neste projeto, eu desenvolvi um WebSocket broker que recebe mensagens e informações de diferentes usuários e, então, as despacha para os usuários conectados.
 - Toda vez que um usuário é desconectado ou sai do chat, essa informação é enviada para todos os outros usuários.
 
 <p align="center">
