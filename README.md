@@ -1,5 +1,9 @@
 # Chat com WebSockets - Java Spring Boot & JavaScript
 
+
+https://github.com/IgorCastilhos/Chat-com-Spring-WebSocket/assets/101683017/925f86d9-6826-4ab0-99a9-f6e011e9e9fd
+
+
 - Neste projeto, eu desenvolvi um WebSocket broker que recebe mensagens e informações de diferentes usuários e, então, as despacha para os usuários conectados.
 - Toda vez que um usuário é desconectado ou sai do chat, essa informação é enviada para todos os outros usuários.
 
